@@ -2,4 +2,4 @@
 
 #HTML5 e CSS
 
-#Mini projetos da DIO
+#Mini projetos - DIO
