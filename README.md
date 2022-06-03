@@ -1,5 +1,5 @@
 # MenuHamburguer_Com 3 Traços
 
-#HTML5 e CSS
+#HTML5 e CSS3
 
-#Mini projetos - DIO
+#Mini projeto - DIO
